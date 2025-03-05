@@ -1,4 +1,4 @@
 # AVResistance_Influenza
-MATLAB code corresponding to the manuscript: Antiviral use and the effects of drug resistance on the transmission dynamics of influenza \n
+MATLAB code corresponding to the manuscript: Antiviral use and the effects of drug resistance on the transmission dynamics of influenza.
 
 The respository will be updated and expanded upon publication. 
